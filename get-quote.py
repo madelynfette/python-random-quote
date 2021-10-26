@@ -1,4 +1,4 @@
-def main():python3 get-quote.py
+def cool():python3 get-quote.py
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
